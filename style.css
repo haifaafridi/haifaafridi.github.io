@@ -2,16 +2,18 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #6D3C52;
+    background-color: #F8E2DF;
     color: #333;
     line-height: 1.6;
 }
 
 header {
-    background-color: #765D67;
-    color: #4B2138;
+    background-color: #FDECEC;
+    color: #7A3A3A;
     padding: 2rem;
     text-align: center;
+    font-size: 30px;
+    font-family: 'Dancing Script';
 }
 
 .tagline {
@@ -26,7 +28,8 @@ section {
 }
 
 h2 {
-    color: #3e3eec;
+    color: #7A3A3A;
+    ;
     margin-bottom: 1rem;
 }
 
@@ -45,7 +48,7 @@ li {
 
 a {
     text-decoration: none;
-    color: #3e3eec;
+    color: #7A3A3A;
     font-weight: bold;
 }
 
@@ -55,7 +58,7 @@ a:hover {
 
 footer {
     background-color: #222;
-    color: #ccc;
+    color: #7A3A3A;
     text-align: center;
     padding: 1rem;
 }
